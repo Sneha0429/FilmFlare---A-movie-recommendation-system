@@ -124,5 +124,7 @@ python -m streamlit run app.py
 
 ## 🖥️ Screenshots
 
-### Add screenshots here later
+<img width="1918" height="973" alt="Screenshot 2025-11-17 102410" src="https://github.com/user-attachments/assets/f0a08cd1-ebf5-4b38-9e3c-d055cbefd4f1" />
+
+
 
